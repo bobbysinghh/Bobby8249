@@ -18,6 +18,10 @@ who is <b>obsessed</b>
 
 ---
 
+## Tech Stack
+![Preview](https://github.com/Bobby8249/Bobby8249/blob/main/images/techstack.png)
+
+
 ## Technical Skills
 <div>
 <img align='left' src='https://github.com/Bobby8249/Bobby8249/blob/main/images/coding-freak.gif' width="330" height="290" >

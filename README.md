@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hello World 👋 :earth_asia:
 
 ---
-**Bobby8249/Bobby8249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.
 
 Here are some ideas to get you started:
 

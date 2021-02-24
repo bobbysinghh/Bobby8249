@@ -1,7 +1,11 @@
-# Hello World 👋 :earth_asia:
-
+# Hello World, 👋 :earth_asia:
+# I'm Bobby
 ---
-.
+
+<div>
+<div align = "center">
+ <img align ="right" width="50%" height="50%" src="https://github.com/Bobby8249/Bobby8249/blob/main/images/character-1.gif" alt="">
+</div>
 
 Here are some ideas to get you started:
 

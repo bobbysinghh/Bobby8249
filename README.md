@@ -30,7 +30,65 @@ who is <b>obsessed</b>
 
 </br>
 </div>
+<br>
+<div>
 
+## 💠 Programming Languages 💠
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+</br>
+</div>
+
+
+
+<!--My Hobbies-->
+
+# 👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 
+<div>
+<img align="right" alt="GIF" src="https://github.com/Bobby8249/Bobby8249/blob/main/images/pipeline.gif" width = "400" height="250"/>
+<br>
+  
+  [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
+![YAML](https://img.shields.io/badge/Scripting%20Language%20-YAML-purple?style=flat-square)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![WebDevelopment ](https://img.shields.io/badge/-Web%20Development-white?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql&logoColor=green)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
+![ComputerNetwork](https://img.shields.io/badge/-Computer%20Networking-orange?style=flat-square&logo=network)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+ ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+ ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+ ![Hadoop](https://img.shields.io/badge/-Hadoop-blue?style=flat-square&logo=apache-hadoop&logoColor=violet)
+ ![BigData](https://img.shields.io/badge/-BigData-purple?style=flat-square)
+ ![BashScripting](https://img.shields.io/badge/-BashScripting-blue?style=flat-square)
+ ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+ ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+ ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=RedHat8&logoColor=black)
+ [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+ ![Anaconda](https://img.shields.io/badge/Anaconda-Jupyter%20Notebook-purple?style=flat-square&logo=Anaconda)
+ [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+ ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
+ ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=yellow)
+![Android](https://img.shields.io/badge/-Android-red?logo=android&style=social)&nbsp;&nbsp;
+
+</br>
+</br>
+
+</div>
 
 ## 📝 Quick Overview 📝
 <div align = "center">

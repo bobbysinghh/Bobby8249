@@ -6,7 +6,7 @@
 <div align = "center">
  <img align ="right" width="50%" height="50%" src="https://github.com/Bobby8249/Bobby8249/blob/main/images/character-1.gif" alt="">
 </div>
- <p align = "left">I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community</p>
+ <p align = "left">I'm a DevOps engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community</p>
 
 <p align = "left">
    I am a 3rd Year undergraduate from <a href="http://www.srku.edu.in/"> <b>Sarvepalli Radhakrishnan University</b>, Bhopal,Madhya Pradesh,India</a>.  
@@ -42,4 +42,12 @@ who is <b>obsessed</b>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bobby8249&layout=compact&theme=radical" />
 </a>
 <div>
+ 
+ <!--footer-->
+<div align="center">
+<br>
+  
+## <em><b> 🤩  Feel Free to [Connect Me](https://wa.me/+917355177018)  🤩 </b></em>
 
+</br>
+</div>

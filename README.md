@@ -29,7 +29,7 @@ who is <b>obsessed</b>
 
 
 ## 📝 Quick Overview 📝
-
+<div align = "center">
 <a href="https://github.com/Bobby8249">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Bobby8249&show_icons=true&include_all_commits=true&theme=radical" alt="Onkar's github stats" />
 </a>
@@ -37,4 +37,5 @@ who is <b>obsessed</b>
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bobby8249&layout=compact&theme=radical" />
 </a>
+<div>
 

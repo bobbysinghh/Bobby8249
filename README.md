@@ -105,7 +105,24 @@ who is <b>obsessed</b>
 <div align="center">
 <br>
   
-## <em><b> 🤩  Feel Free to [Connect Me](https://wa.me/+917355177018)  🤩 </b></em>
+## <em><b> Feel Free to [Connect Me](https://wa.me/+917355177018)   </b></em>
 
 </br>
 </div>
+
+<p align="center">
+  <b>Let's connect and chat! Open for collaborations.</b>
+
+  <p align="center">
+
+ 
+ 
+    
+| [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/bobby-singh-4321791a7/) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/BobbySi17229276) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bobby_singh_official_/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Bobby8249) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/bharat8249) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@bharat8249) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Gmail.svg" alt="Gmail logo" height="32">](mailto:bharat8249@gmail.com) 
+| [<img src="https://cdn.svgporn.com/logos/whatsapp.svg" alt="Whatsapp logo" height="32">](https://wa.me/+917355177018)
+
+ 
+</p>
+</p>
+
+
